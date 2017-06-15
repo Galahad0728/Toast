@@ -1,0 +1,20 @@
+.toast-wrapper{
+    position: fixed;
+    top: 180px;
+    left: 0;
+    right: 0;
+}
+.toast-wrapper .msg{
+    display: inline-block;
+    padding: 8px 10px;
+    background: hsla(0,0%,7%,.7);
+    color: white;
+    border-radius: 5px;
+    font-size: 14px;
+    max-width: 280px;
+    word-break: break-all;
+}
+.toast-bottom{
+    top: auto;
+    bottom: 50px;
+}

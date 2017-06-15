@@ -15,3 +15,6 @@ Usage
   });
 </script>
 ```
+Demo
+======
+![](https://github.com/Galahad0728/Toast/blob/master/sample_01.png)  

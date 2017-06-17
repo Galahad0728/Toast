@@ -3,6 +3,7 @@
     top: 180px;
     left: 0;
     right: 0;
+    text-align: center;
 }
 .toast-wrapper .msg{
     display: inline-block;
